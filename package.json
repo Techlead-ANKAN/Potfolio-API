@@ -1,0 +1,29 @@
+{
+  "name": "myportfolioapi",
+  "version": "1.0.0",
+  "description": "The Ankan Maity Portfolio API is a public RESTful API that provides structured access to Ankan Maity’s professional portfolio data, including biography, skills, tech stack, featured projects, testimonials, and contact information. This API is intended for integration into personal websites, resumes, hiring platforms, or any other system that requires automated access to Ankan’s professional details.",
+  "keywords": [
+    "API",
+    "Portfolio",
+    "RESTful",
+    "API"
+  ],
+  "homepage": "https://github.com/Techlead-ANKAN/MyPortfolioAPI#readme",
+  "bugs": {
+    "url": "https://github.com/Techlead-ANKAN/MyPortfolioAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techlead-ANKAN/MyPortfolioAPI.git"
+  },
+  "license": "ISC",
+  "author": "Ankan Maity",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

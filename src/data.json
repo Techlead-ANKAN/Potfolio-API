@@ -1,0 +1,116 @@
+{
+    "name": "Ankan Maity",
+    "roles": [
+        "Web Developer",
+        "Web Scrapper",
+        "Freelancer"
+    ],
+    "contact": {
+        "email": "mr.ankanmaity@gmail.com",
+        "location": "Kolkata, West Bengal, India"
+    },
+    "portfolio": "https://portfolio-ankan.vercel.app/",
+    "github": "https://github.com/Techlead-ANKAN",
+    "linkedin": "https://www.linkedin.com/in/ankan-maity",
+    "bio": "Ankan Maity is a passionate Full Stack Developer with extensive expertise in building modern web applications across the entire stack. His technical journey spans multiple programming languages and frameworks, with a strong focus on creating intuitive, performant, and scalable user experiences. As a Web Developer, Web Scrapper, and Freelancer, Ankan is dedicated to bridging the gap between complex technical requirements and business objectives. He prioritizes clean architecture and user-centric design, ensuring high performance, accessibility, and maintainability in his solutions. He is continuously learning and exploring new technologies and methodologies to stay at the forefront of web development. Ankan is currently engaged in innovative projects that solve real-world problems and actively contributes to open-source initiatives that align with his values.",
+    "about": {
+        "headline": "Full Stack Developer",
+        "description": "Specializing in modern web application development with expertise across the entire stack. Passionate about creating efficient, scalable solutions with cutting-edge technologies. With a focus on clean architecture and user-centric design, I bridge the gap between complex technical requirements and business objectives. My development approach emphasizes performance, accessibility, and maintainability.",
+        "principles": [
+            "Clean Code: Writing maintainable, readable, and efficient code",
+            "User-Centric: Designing with the end user's needs as the priority",
+            "Continuous Learning: Always exploring new technologies and methodologies"
+        ],
+        "stats": {
+            "experience": "5+ Years Experience",
+            "repositories": "43+",
+            "clientSatisfaction": "100%",
+            "linesOfCode": "50k+"
+        }
+    },
+    "tech_stack": {
+        "languages": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "Python",
+            "C",
+            "C++"
+        ],
+        "frontend": [
+            "React",
+            "Bootstrap",
+            "Vue.js",
+            "TailwindCSS",
+            "Vite",
+            "Context API",
+            "React Router"
+        ],
+        "backend": [
+            "Node.js",
+            "Supabase",
+            "Clerk",
+            "MySQL",
+            "Appwrite"
+        ],
+        "tools": [
+            "Git",
+            "Github",
+            "VS Code",
+            "NPM",
+            "Vercel"
+        ]
+    },
+    "projects": {
+        "frontend": [
+            {
+                "name": "Employee Management System",
+                "description": "A front-end application for managing employee data, records, and visualization.",
+                "details": "Creating a persistent data storage solution without a backend.",
+                "implementation": "Implemented a robust development architecture with data validation and error handling.",
+                "website_link": "https://employee-management-system-nine-sigma.vercel.app/",
+                "code_link": "https://github.com/Techlead-ANKAN/Employee-Management-System"
+            },
+            {
+                "name": "Wisdom AI",
+                "description": "This is a simple front-end prototype for WisdomAfrica.AI, a platform that provides an AI-driven insights and analytics. The application is built using React and integrates with various APIs to deliver real-time data.",
+                "details": "Meeting the complex yet pixel perfect design of the client",
+                "implementation": "Implemented a robust and scalable architecture with data validation and error handling.",
+                "website_link": "https://wisdomai.africa/",
+                "status": "Coming soon..."
+            }
+        ],
+        "fullstack": [
+            {
+                "name": "JobNext",
+                "description": "JobNext is a comprehensive job search platform built with React and Supabase. It features job postings, user profiles, job applications with search and filter capabilities and application tracking for job seekers.",
+                "details": "Implementing real-time updates and managing complex states across the application.",
+                "implementation": "Utilizing Supabase's real-time subscriptions, and React Context API for state management.",
+                "website_link": "https://job-nest-hazel.vercel.app/",
+                "code_link": "https://github.com/Techlead-ANKAN/JobNest"
+            },
+            {
+                "name": "Shronit",
+                "description": "Shronit is a web-based platform designed to enhance learning, career preparation, and professional development using AI-powered tools. It features Co-motion (an AI-powered course creation), Interview Recorder (for real-time AI interview simulations), Aptitude Spirit (for adaptive testing), Bootcamp (for personalized learning journeys), and more.",
+                "details": "Creating a persistent data storage solution without a backend.",
+                "implementation": "Leveraging responsive design and interactive experiences for users.",
+                "website_link": "https://shren-it-ai.vercel.app/",
+                "status": "Coming soon..."
+            }
+        ]
+    },
+    "testimonials": [
+        {
+            "client_name": "Akhi Mohammed",
+            "client_title": "CEO @ WisdomAfrica.AI",
+            "quote": "I had the pleasure of working with Ankan, and I can't recommend him highly enough! From start to finish, he did an amazing job on my project. He listened carefully to my needs and made sure to understand what I wanted. Ankan's skills are top-notch, and he paid close attention to every detail. He was always professional and easy to communicate with, making the whole process smooth and enjoyable. I felt confident knowing my project was in good hands. Thank you, Ankan, for your hard work and for delivering exactly what I needed! I truly appreciate it!"
+        },
+        {
+            "client_name": "ABDIQUDUS AHMED",
+            "client_title": "Co-Founder @ WissomAfrica.AI",
+            "quote": "We had a great experience working with Ankan on our website project. He was professional, responsive, and delivered a high-quality site that met all our requirements. Highly recommend his services!"
+        }
+    ]
+}
