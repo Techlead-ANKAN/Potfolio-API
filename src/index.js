@@ -1,7 +1,10 @@
 // index.js
 import express from "express";
 import fs from "fs/promises";
+import dotenv from "dotenv";
+
 const app = express();
+dotenv.config();
 const PORT = process.env.PORT || 3001;
 
 // Read JSON data asynchronously
